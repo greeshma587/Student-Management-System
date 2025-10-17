@@ -56,7 +56,7 @@ t9=StringVar()
 t10=StringVar()
 
 se=StringVar()
-############################### Login Here ##################################################################
+############################### Login Here ################################
 
 
 loginform = Frame(home,bg="cadetblue1",width=500,height=500).pack(side=RIGHT)
